@@ -13,6 +13,6 @@ def change_rotation():
 
 import keyboard  # using module keyboard
 
-
 keyboard.add_hotkey('win + page up', change_rotation)  # create hotkey
 keyboard.wait('')
+    
